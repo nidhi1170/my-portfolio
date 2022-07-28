@@ -1,0 +1,297 @@
+.container{
+    position:absolute;
+    margin-left:50px;
+    
+}
+
+
+#a1{
+    border:black;
+    background-color:#FBF3E4;
+    width:1200px;
+    height:74PX;
+    margin-left:50px;
+    padding-top:px;
+}
+
+#a2{
+    background-color:#105652;
+    width:1200px;
+    height:470PX;
+    margin-left:50px;
+    padding-top:px;
+    
+}
+
+.a1{
+    color:#105652;
+    padding:5px ;
+    font-size:42px;
+}
+
+#b1{
+    display:inline-block;
+    color:black;
+    position:relative;
+    bottom:65px;
+    left:600px;
+    font-size: 20px;
+}
+
+#b2{
+    display:inline-block;
+    color:black;
+    position:relative;
+    bottom:65px;
+    left:650px;
+    font-size: 20px;
+
+}
+
+#b3{
+    display:inline-block;
+    color:black;
+    position:relative;
+    bottom:65px;
+    left:700px;
+    font-size: 20px;
+
+}
+
+#b4{
+    display:inline-block;
+    color:black;
+    position:relative;
+    bottom:65px;
+    left:750px;
+    font-size: 20px;
+
+}
+
+#b5{
+    display:inline-block;
+    color:black;
+    position:relative;
+    bottom:65px;
+    left:800px;
+    font-size: 20px;
+
+}
+
+.b6{
+   position:absolute;
+   top:150px;
+   font-size:40px;
+   color:#FCA738;
+}
+
+.b7{
+    position:absolute;
+    top:199px;
+    font-size:45px;
+    font-style:Inter bold;
+    color:white;
+}
+
+.b8{
+    position:absolute;
+    top:370px;
+    font-size:18px;
+    font-style:light;
+    color:white;
+}
+
+#a3{
+    position:absolute;
+    background-color: #09BEAD;
+    width:160px;
+    height:49px;
+    top:430px;
+    left:180px;
+    font-size:22px;
+    text-align: center;
+    border-radius:8px ;
+}
+
+#a4{
+    position:absolute;
+    background-color: #FCA738;
+    width:160px;
+    height:49px;
+    top:430px;
+    left:350px;
+    font-size:22px;
+    text-align: center;
+    border-radius:8px ;
+}
+
+#a5{
+    background-color:#F7F7F7;
+    width:1200px;
+    height:4436PX;
+    margin-left:50px;
+    padding-top:px;
+}
+
+.item1{
+    background-color:#FFFFFF;
+    width:1100px;
+    height:606PX;
+    margin-left:50px;
+    padding-top:px;
+    position:relative;
+    top:50px;
+    border-radius: 10px; 
+}
+
+#item2{
+    background-color: white;
+    width:550;
+    height:578;
+    margin:30px;
+    position: relative;
+    top: 10px;
+}
+
+
+#a7{
+    background-color: white;
+    width:500;
+    height:578;
+    margin:30px;
+    position: relative;
+    left: 550px;
+    bottom:598px;
+}
+
+#a8{
+    color: #105652;
+    font-style:inter Bold;
+    text-decoration: underline;
+    text-decoration-thickness: 7px;
+    text-underline-offset: 20px;
+    text-decoration-color: #FCA738;
+
+}
+
+#a9{
+    background-color: white;
+    width:500px;
+    height:150px;
+    border-radius: 20px;
+    color:#105652;
+}
+
+#a10{
+    text-align: center;
+    position:relative;
+    bottom:550px;
+    font-size:40px;
+    color:#105652;
+    text-decoration: underline;
+    text-underline-offset: 20px;
+    text-decoration-color: #FCA738;
+    text-decoration-thickness: 8px;
+}
+   
+#a11{
+    background-color: white;
+    width:1080px;
+    height:500px;
+    position:relative;
+    bottom: 500px;
+    border-radius:10px;
+}
+
+#a12{
+    background-color: #09BEAD;
+    width:482px;
+    height:430px;
+    position:relative;
+    left:668px;
+    bottom:480px;
+
+}
+
+#c1{
+    background-color: white;
+    width:1100px;
+    height:630px;
+    position:relative;
+    bottom:430px;
+    border-radius:30px;
+}
+
+#c2{
+    display:inline-block;
+    background-color: pink;
+    width: 180;
+    height:180;
+    border-radius:100%;
+    margin-left:127px;
+    position:relative;
+    top:80px;
+} 
+
+#c3{
+    
+    position:relative;
+    left:165px;
+    top:8px;
+}
+
+#c4{
+    position:relative;
+    left:470px;
+    bottom:210px;
+    
+}
+
+#c5{
+    position:relative;
+    left:800px;
+    bottom:430px;
+}
+
+#c6{
+    background-color: #FBF3E4;
+    width:1100px;
+    height:88px;
+    text-align: center;
+    font-size:20px;
+    color: #FCA738;
+    position:relative;
+    bottom:407px;
+}
+
+#c7{
+    background-color: white;
+    width:1000px;
+    height:606px;
+    position: relative;
+    bottom:250px;
+    left:40px;
+}
+#c8{
+    display: inline-block;
+    background-color:white;
+    width:500px;
+    height:606px;
+}
+#c9{
+    background-color:pink;
+    width:500px;
+    height:606px; 
+    position: relative;
+    bottom:626px;
+    left:500px;
+}
+
+#c10{
+    background-color: #FCA738;
+    width:189px;
+    height:40px;
+    font-size:16px;
+    border-radius: 4px;
+}
+
